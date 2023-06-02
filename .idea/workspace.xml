@@ -27,8 +27,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\forwardingFtp\app\Controllers" />
+      <recent name="C:\OSPanel\domains\forwardingFtp\Controller\Config" />
       <recent name="C:\OSPanel\domains\forwardingFtp\app\Services" />
+      <recent name="C:\OSPanel\domains\forwardingFtp\Controller" />
+      <recent name="C:\OSPanel\domains\forwardingFtp" />
+      <recent name="C:\OSPanel\domains\forwardingFtp\app\Controllers" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

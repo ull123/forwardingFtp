@@ -1,5 +1,5 @@
 <?php
-    namespace File;
+    namespace app\Services;
     
     class File
     {
